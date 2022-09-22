@@ -1,0 +1,86 @@
+body {
+  height: 100vh;
+  background-image: url(../img/Fundo.svg);
+  background-position: top center;
+  /* BUSCA UMA MANEIRA DE DEIXA A IMG CENTRALIZADA*/
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-color: #121214;
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  line-height: 160%;
+}
+
+.perfil{
+  margin: auto;
+  box-sizing: border-box;
+  background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+  width: 16.43vh;
+  border-radius: 50%;
+  display: flex;
+  padding: 4px;
+  transition: transform .3s;
+
+}
+
+
+.img__perfil{
+  width: 100%;
+  border-radius: 50%;
+  
+}
+
+.img__perfil:hover{
+  transform: scale(1.1);
+}
+
+.main {
+  max-width: 79.45vh;
+  width: 98%;
+  margin: 3.28vh auto;
+  display: grid;
+  gap: 3.28vh;
+ margin-bottom: 3.28vh;
+}
+
+.borda{
+  padding-top: 4px;
+  background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+  border-radius: 10px;
+}
+
+.container{
+  background:#2A2634;
+  padding: 4.38vh 3.28vh 3.28vh;
+  border-radius: 8px;
+}
+
+.titulo {
+  font-weight: 900;
+  font-size: 3.28vh;
+  letter-spacing: -0.47px;
+  /* espaço entre as letras */
+}
+
+.p {
+  letter-spacing: -0.18px;
+  color: #A1A1AA;
+}
+
+.flex {
+  display: flex;
+  gap: 2.19vh;
+  flex-wrap: wrap;
+  
+}
+
+.img__jogos {
+  width: 12.32vh;
+  height: 16.43vh;
+  border-radius: 8px;
+  transition: transform .3s;
+}
+
+.img__jogos:hover {
+  transform: scale(1.1);
+}
