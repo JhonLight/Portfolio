@@ -1,10 +1,10 @@
-
-<img align="center" width="100%" height="50%" alt="gif Scrum" src="./img/Scrum.gif"/>
-
+<div align="center">
+<img width="50%" alt="gif Scrum" src="./img/Scrum.gif"/>
+</div>
 <h1 align="center">Portfólio</h1>
-<h2 align="center">Desenvolvido para agrupar os trabalhos desenvolvidos</h2>
+<h2 align="center">Desenvolvido para agrupar os trabalhos</h2>
 
-<p>- ⚠️ Os projetos podem ainda estar em desenvolvimento 🧑🏻‍💻 </p>
+<p> ⚠️ Os projetos podem ainda estar em desenvolvimento 🧑🏻‍💻 </p>
 
 ## Layout
 
