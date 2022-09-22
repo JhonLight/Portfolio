@@ -95,3 +95,13 @@ body {
 .img__canais:hover{
   transform: scale(1.1);
 }
+
+.img__redes{
+  width: 32px;
+height: 32px;
+transition: transform .3s;
+}
+
+.img__redes:hover{
+  transform: scale(1.1);
+}
