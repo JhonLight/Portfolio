@@ -84,3 +84,14 @@ body {
 .img__jogos:hover {
   transform: scale(1.1);
 }
+
+.img__canais {
+  border-radius: 50%;
+  width: 9.58vh;
+  border: 1px solid #443E54;
+  transition: transform .3s;
+}
+
+.img__canais:hover{
+  transform: scale(1.1);
+}
